@@ -1,8 +1,8 @@
-import View from './view';
-import icons from 'url:../../img/icons.svg';
+import View from './View.js';
+import icons from 'url:../../img/icons.svg'; // Parcel 2
 
 class PreviewView extends View {
-  _parentEl = '';
+  _parentElement = '';
 
   _generateMarkup() {
     const id = window.location.hash.slice(1);
