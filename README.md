@@ -8,4 +8,4 @@ This is a Recipe application with custom recipe uploads. It is a front and rende
 - Bookmark recipes
 - create and add custom recipes
 
-Rendered on:
+Rendered on: https://forkify-mide.netlify.app/
